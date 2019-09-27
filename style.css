@@ -1,0 +1,19 @@
+.signUp h3{
+
+text-align: center;
+margin-top: 20px;
+
+}
+.signUp a{
+
+color: white;
+
+}
+.signUp  :hover a{
+
+color: white;
+
+}
+button{
+  margin-top: 20px;
+}
