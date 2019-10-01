@@ -1,14 +1,50 @@
 body{
 
+background-image: url('images/ubuntu.jpg');
+background-repeat: no-repeat;
+background-size: cover;
 
 
 }
 #LoginForm{
 
-margin-top: 40px;
-margin-right: 60px;
+ background-color: #f2f2f2;
+ width: 100%;
+ opacity:0.9;
+
 
 }
-#LoginForm.h1{
+#logTip{
+background-color:rgba(0,0,0,0.5);
+width: 100%;
+height: auto;
+margin-bottom: 10px;
 
+}
+#LoginForm h1{
+
+	text-align: center;
+	font-size:30px;
+
+}
+#LoginForm loginbutton{
+
+background-color: #000;
+
+}
+
+label{
+
+margin-left: 10px;
+}
+#row2{
+
+background-color:#AFEEEE; 
+opacity:0.8;
+margin-top: 20px;
+width: 100%;
+
+}
+#sign_in{
+	margin-top: 20px;
 }

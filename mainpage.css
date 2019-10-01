@@ -1,0 +1,28 @@
+body{
+
+background-image: url('images/ubuntu.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+#infoBlock{
+
+
+}
+#infoBlock h1{
+
+	font-size: 30px;
+	color:white;
+
+}
+#phonedetails{
+
+	width:500px;
+	height: 500px;
+	margin-top: 20px;
+
+
+
+}
